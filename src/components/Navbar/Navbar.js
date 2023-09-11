@@ -37,7 +37,7 @@ const Navbar = () => {
         </nav> */}
         <div className="sideComp">
           <div className="link-web">
-            <a href="https://github.com/Manan-jn/Guardian">
+            <a href="https://github.com/Manan-jn/Talkrr">
               <img
                 className="github"
                 src={require("../../img/github.png")}
