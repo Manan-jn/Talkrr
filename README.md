@@ -6,13 +6,17 @@
 
 ## 🧪 Deployment
 https://talkrr-delta.vercel.app/
-
+![Screenshot 2023-01-08 232413](https://github.com/Manan-jn/Talkrr/assets/72336990/ee5a498d-e74e-4755-8892-0f4440cbe05e)
+![Screenshot 2023-01-08 231524](https://github.com/Manan-jn/Talkrr/assets/72336990/297ae9fd-2c6e-4f2c-9c4e-044b72e28b11)
+![Screenshot 2023-01-08 225159](https://github.com/Manan-jn/Talkrr/assets/72336990/48c34968-edca-4ba3-9e50-854cbb2584cb)
 ## Local Setup:
 
 clone the repository using 
+
 ```
 git clone https://github.com/Manan-jn/Talkrr
 ```
+
 
 Setup the website
 ``
